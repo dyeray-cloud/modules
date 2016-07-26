@@ -4,6 +4,3 @@ dispatch:
 
 - url: "*/bye"
   module: bye
-
-- url: "*/"
-  module: default
